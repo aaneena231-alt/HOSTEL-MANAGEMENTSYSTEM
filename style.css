@@ -1,0 +1,44 @@
+body.bg {
+  background: url("https://images.unsplash.com/photo-1503676260728-1c00da094a0b");
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+  cursor: url("https://cur.cursors-4u.net/nature/nat-10/nat984.cur"), auto;
+}
+
+.card {
+  background: rgba(255,255,255,0.9);
+  padding: 30px;
+  width: 300px;
+  margin: 100px auto;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  padding: 20px;
+}
+
+.box {
+  background: #fff;
+  padding: 20px;
+  border-radius: 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.box:hover {
+  transform: scale(1.05);
+  background: #ffe6f2;
+}
+
+.content {
+  display: none;
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 15px;
+}
