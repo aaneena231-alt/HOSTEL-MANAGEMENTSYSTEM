@@ -1,0 +1,254 @@
+{
+  "users": [
+    {
+      "username": "nnn",
+      "password": "nnn",
+      "role": "hostler"
+    },
+    {
+      "username": "www",
+      "password": "www",
+      "role": "warden"
+    },
+    {
+      "username": "www",
+      "password": "www",
+      "role": "warden"
+    },
+    {
+      "username": "warden",
+      "password": "123",
+      "role": "hostler"
+    },
+    {
+      "username": "warden",
+      "password": "123",
+      "role": "hostler"
+    },
+    {
+      "username": "hostler",
+      "password": "123",
+      "role": "hostler"
+    },
+    {
+      "username": "warden",
+      "password": "123",
+      "role": "warden"
+    },
+    {
+      "username": "hostler",
+      "password": "123",
+      "role": "hostler"
+    },
+    {
+      "username": "warden",
+      "password": "111",
+      "role": "hostler"
+    },
+    {
+      "username": "warden",
+      "password": "111",
+      "role": "warden"
+    },
+    {
+      "username": "tintu",
+      "password": "1232",
+      "role": "hostler"
+    },
+    {
+      "username": "tintuannan",
+      "password": "1232",
+      "role": "warden"
+    },
+    {
+      "username": "warden",
+      "password": "666",
+      "role": "hostler"
+    },
+    {
+      "username": "warden",
+      "password": "999",
+      "role": "warden"
+    },
+    {
+      "username": "hostler",
+      "password": "444",
+      "role": "warden"
+    },
+    {
+      "username": "warden",
+      "password": "ppp",
+      "role": "warden"
+    },
+    {
+      "username": "hostler",
+      "password": "ppp",
+      "role": "hostler"
+    },
+    {
+      "username": "warden",
+      "password": "123",
+      "role": "warden"
+    },
+    {
+      "username": "hostler",
+      "password": "1234",
+      "role": "hostler"
+    },
+    {
+      "username": "hostler",
+      "password": "1234",
+      "role": "hostler"
+    },
+    {
+      "username": "warden",
+      "password": "1234",
+      "role": "warden"
+    },
+    {
+      "username": "hostler",
+      "password": "1234",
+      "role": "hostler"
+    },
+    {
+      "username": "warden",
+      "password": "123",
+      "role": "warden"
+    },
+    {
+      "username": "warden",
+      "password": "123",
+      "role": "warden"
+    },
+    {
+      "username": "warden",
+      "password": "123",
+      "role": "warden"
+    },
+    {
+      "username": "warden",
+      "password": "123",
+      "role": "warden"
+    },
+    {
+      "username": "warden",
+      "password": "123www",
+      "role": "warden"
+    },
+    {
+      "username": "warden",
+      "password": "133",
+      "role": "hostler"
+    },
+    {
+      "username": "warden",
+      "password": "133",
+      "role": "warden"
+    },
+    {
+      "username": "tintu",
+      "password": "777",
+      "role": "warden"
+    },
+    {
+      "username": "tintu",
+      "password": "999",
+      "role": "hostler"
+    },
+    {
+      "username": "warden",
+      "password": "123",
+      "role": "hostler"
+    },
+    {
+      "username": "warden",
+      "password": "123",
+      "role": "warden"
+    },
+    {
+      "username": "aiswarya",
+      "password": "12345",
+      "role": "warden"
+    },
+    {
+      "username": "tintu",
+      "password": "1234",
+      "role": "hostler"
+    },
+    {
+      "username": "tintu",
+      "password": "123",
+      "role": "hostler"
+    },
+    {
+      "username": "aiswarya",
+      "password": "123",
+      "role": "warden"
+    }
+  ],
+  "expenses": [
+    {
+      "username": "hostler",
+      "amount": "6677",
+      "category": "dfgj"
+    },
+    {
+      "username": "hostler",
+      "amount": "566",
+      "category": "opp"
+    },
+    {
+      "username": "hostler",
+      "amount": "500",
+      "category": "food"
+    },
+    {
+      "username": "hostler",
+      "amount": "5000",
+      "category": "travel"
+    },
+    {
+      "username": "hostler",
+      "amount": "2000",
+      "category": "travel"
+    }
+  ],
+  "complaints": [
+    {
+      "text": "vayyyyaaa",
+      "anonymous": true
+    },
+    {
+      "text": "The Wi-Fi in the hostel is very slow.",
+      "anonymous": true
+    },
+    {
+      "text": "ragging in hostel",
+      "anonymous": true
+    }
+  ],
+  "votes": [
+    {
+      "title": "water",
+      "count": 2
+    },
+    {
+      "title": "bill",
+      "count": 1
+    }
+  ],
+  "announcements": [
+    {
+      "text": "hgdjhwhdfj"
+    },
+    {
+      "text": "ayyyyooooo"
+    },
+    {
+      "text": "Attention students: The canteen will be closed tomorrow."
+    },
+    {
+      "text": "meeting at 8pm"
+    }
+  ]
+}
