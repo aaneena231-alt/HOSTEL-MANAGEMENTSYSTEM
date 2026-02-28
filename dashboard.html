@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="bg">
+
+  <button onclick="logout()"
+    style="position: absolute; top: 10px; right: 20px; padding: 5px 10px; cursor: pointer;">Logout</button>
+  <h2 id="welcome"></h2>
+
+  <div class="grid">
+
+    <div class="box" id="expenseBoxBtn" onclick="toggle('expenseBox')">
+      💸 Personal Expense
+    </div>
+
+    <div class="box" id="goalBoxBtn" onclick="toggle('goalBox')">
+      🎯 Budget Goal
+    </div>
+
+    <div class="box" id="complaintBoxBtn" onclick="toggle('complaintBox')">
+      📝 Anonymous Complaint
+    </div>
+
+    <div class="box" id="voteBoxBtn" onclick="toggle('voteBox')">
+      🗳 Vote Improvement
+    </div>
+
+    <div class="box" id="announcementBoxBtn" onclick="toggle('announcementBox')">
+      🔔 Announcements
+    </div>
+
+  </div>
+
+  <div id="expenseBox" class="content">
+    <h3>Daily Expense</h3>
+    <input id="amount" placeholder="Amount">
+    <input id="category" placeholder="Category">
+    <button onclick="addExpense()">Add</button>
+    <div id="expenseList"></div>
+  </div>
+
+  <div id="goalBox" class="content">
+    <h3>Budget Goal</h3>
+    <input id="goal" placeholder="Goal Amount">
+    <button onclick="setGoal()">Set Goal</button>
+    <p id="health"></p>
+  </div>
+
+  <div id="complaintBox" class="content">
+    <h3 id="complaintTitle">Anonymous Complaint</h3>
+    <div id="complaintForm">
+      <textarea id="complaint"></textarea>
+      <button onclick="sendComplaint()">Send</button>
+    </div>
+  </div>
+
+  <div id="voteBox" class="content">
+    <h3>Vote Improvement</h3>
+    <input id="voteTitle" placeholder="Eg: New Water Purifier">
+    <button onclick="vote()">Vote</button>
+    <div id="voteList"></div>
+  </div>
+
+  <div id="announcementBox" class="content">
+    <h3 id="announcementTitle">Announcements</h3>
+    <div id="annList"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
