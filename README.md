@@ -2,27 +2,30 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# HOSTEL MANAGEMENTSYSTEM 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: SheCodes
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1:AISWARYA M - COLLEGE OF ENGINEERING PERUMON
+- Member 2: ANEENA A - COLLEGE OF ENGINEERING PERUMON
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+The Hostel Management System is a web-based platform with separate logins for hostlers and wardens. Hostlers can track expenses, set budget goals, vote for improvements, submit anonymous complaints, and view announcements, while wardens can post/edit announcements and manage complaints efficiently. This system ensures transparent communication and smooth hostel management.
+
 
 ### The Problem statement
-[What problem are you solving?]
+The problem we are solving is the inefficiency and lack of transparency in hostel management , where hostlers struggle to track expenses, submit complaints, or suggest improvements, and wardens face difficulty in managing announcements and monitoring hostler issues. This system provides an organized, digital way to handle these tasks efficiently.
+
 
 ### The Solution
-[How are you solving it?]
+The solution is a web-based hostel management system with role-based logins. Hostlers can track personal expenses, set budget goals, vote for improvements, submit anonymous complaints, and view announcements, while wardens can post/edit announcements and manage complaints. This ensures efficient, transparent, and organized hostel operations.
+
 
 ---
 
@@ -31,7 +34,7 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
+- Languages used: JavaScript,
 - Frameworks used: [e.g., React, Django, Spring Boot]
 - Libraries used: [e.g., axios, pandas, JUnit]
 - Tools used: [e.g., VS Code, Git, Docker]
@@ -46,10 +49,10 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: Expense & Budget Management: Hostlers can track personal expenses and set monthly budget goals.
+- Feature 2: Announcements: Wardens can post/edit announcements; hostlers can view them.
+- Feature 3: Complaints System: Hostlers can submit anonymous complaints; wardens can view and manage them.
+- Feature 4: Voting for Improvements: Hostlers can suggest and vote on hostel facility improvements.
 
 ---
 
